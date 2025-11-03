@@ -25,3 +25,7 @@ https://docs.google.com/spreadsheets/d/1XZXQVZWqt9N-pVoUquOj8kM8GxwXvLiGxvb7T2-i
 Отчет о результатах тестирования
 
 [Отчёт по результатам тестирования мобильного приложения Shopping-list.pdf](https://github.com/user-attachments/files/23292349/Shopping-list.pdf)
+
+Работа с перехватом трафика в CharlesProxy в мобильном приложении
+
+https://drive.google.com/file/d/1A2u7Za0rTInTH5yhOonAqmqegVqS0mBa/view?usp=sharing
