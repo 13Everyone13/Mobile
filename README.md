@@ -4,7 +4,7 @@
 
 Для тестирования я использовал эмулятор в Android Studio. Для перехвата трафика использовал CharlesProxy.
 
-- [Тест-кейсы для тестирования мобильного приложения](https://github.com/user-attachments/files/23150394/-.pdf)
+- [Тестовые наборы для тестирования мобильного приложения](https://github.com/user-attachments/files/23150394/-.pdf)
 
 - [Чек-лист по тестированию мобильного приложения](https://docs.google.com/spreadsheets/d/1XZXQVZWqt9N-pVoUquOj8kM8GxwXvLiGxvb7T2-iRkk/edit?usp=sharing)
 
